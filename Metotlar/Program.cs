@@ -52,3 +52,4 @@ namespace Metotlar
 }
 // metotlar tekrar tekrar kullanımı kolaylaştırıyor
 // dont repeat yourself - dry - clean Code - Best Practice
+
